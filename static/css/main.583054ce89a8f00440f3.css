@@ -512,6 +512,9 @@
 #nav-footer span[data-v-b07fc4c4] {
   padding: 10px;
 }
+#nav-footer span a[data-v-b07fc4c4] {
+  color: #000;
+}
 
 :root {
   --color-active-green: #28a745;
