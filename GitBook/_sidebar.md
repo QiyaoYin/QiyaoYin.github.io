@@ -10,7 +10,6 @@
     * [执行上下文和执行栈](/doc/JavaScript/JavaScript-执行上下文和执行栈)
     * [继承机制的设计思想](/doc/JavaScript/JavaScript-继承机制的设计思想)
     * [防抖和节流](/doc/JavaScript/JavaScript-防抖和节流)
-    * [执行上下文和执行栈](/doc/JavaScript/JavaScript-执行上下文和执行栈)
     * [面向对象编程（一）：封装](/doc/JavaScript/JavaScript-面向对象编程-1（封装）)
     * [面向对象编程（二）：继承](/doc/JavaScript/JavaScript-面向对象编程-2（继承）)
 * **CSS**
