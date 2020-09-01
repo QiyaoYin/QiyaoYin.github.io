@@ -1,5 +1,3 @@
-[toc]
-
 # webpack
 
 webpack的一些基础配置
