@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-变量对象
 
 延续上篇文章`JavaScript-执行上下文和执行栈`。

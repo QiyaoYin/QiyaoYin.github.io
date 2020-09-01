@@ -31,3 +31,6 @@
     * [三次握手-四次挥手](/doc/HTTP/三次握手-四次挥手)
 * **NodeJs**
     * [webpack基础](/doc/NodeJs/nodejs-webpack)
+* VUE
+    * [生命周期](/doc/VUE/生命周期)
+

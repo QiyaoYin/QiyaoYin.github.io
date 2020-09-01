@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-执行顺序
 
 ## 进程与线程

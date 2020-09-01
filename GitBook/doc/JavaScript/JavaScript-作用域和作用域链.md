@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-作用域和作用域链
 
 接上一篇`JavaScript-变量对象`。

@@ -1,3 +1,5 @@
+[toc]
+
 # XMLHttpRequest
 
 XMLHttpRequest标准分为level 1 和 level 2。其中level 1 有如下问题：

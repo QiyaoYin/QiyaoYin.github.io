@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-this指向问题
 
 接上一篇`JavaScript-作用域和作用域链`。

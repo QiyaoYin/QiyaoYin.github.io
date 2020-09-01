@@ -1,3 +1,5 @@
+[toc]
+
 # Javascript 面向对象编程（一）：封装
 
 Javascript是一种基于对象（object-based）的语言，你遇到的所有东西几乎都是对象。但是，它又不是一种真正的面向对象编程`Object Oriented Programming`（OOP）语言，因为它的语法中没有`class`（类）。

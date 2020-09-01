@@ -1,3 +1,5 @@
+[toc]
+
 # ES6-SETANDMAP
 
 ## SET

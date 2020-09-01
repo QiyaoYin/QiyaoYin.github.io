@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-unicode详解
 
 ## Unicode是什么

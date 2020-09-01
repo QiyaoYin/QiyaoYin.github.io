@@ -1,3 +1,5 @@
+[toc]
+
 # CSS-BFC
 
 ## 什么是 BFC

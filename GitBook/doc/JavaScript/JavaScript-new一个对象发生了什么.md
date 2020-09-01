@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-new一个对象发生了什么
 
 ## call、apply、bind

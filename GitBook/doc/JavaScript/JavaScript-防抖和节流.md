@@ -1,3 +1,5 @@
+[toc]
+
 # JavaScript-防抖和节流
 
 ## 概念
