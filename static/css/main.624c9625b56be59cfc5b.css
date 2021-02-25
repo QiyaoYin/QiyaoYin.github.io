@@ -537,6 +537,11 @@
   height: 50vh;
   width: 50%;
 }
+#covid-container #data-source[data-v-77deefdd] {
+  color: var(--color-font-gray);
+  font-size: 12px;
+  padding-left: 20px;
+}
 #covid-container.mobile[data-v-77deefdd] {
   height: 110vh;
 }
