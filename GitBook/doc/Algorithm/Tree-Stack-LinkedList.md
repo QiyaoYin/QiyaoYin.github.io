@@ -132,6 +132,29 @@ public static void levelTraversal(TreeNode node) {
 }
 ```
 
+## Tree depth
+
+```java
+public int maxDepth(TreeNode root){
+  if(root != null){
+    int left = maxDepth(root.left);
+    int right = maxDepth(root.right);
+    return (left > right ? left : right) + 1;
+  }
+	return 0;
+}
+```
+
+## Tree Leave Number
+
+```java
+public int leaveNums(TreeNode node) {
+  if(node == null) return 0;
+  if(node.left == null && node.right == null) return 1;
+  return leaveNums(node.left) + leaveNums(node.right);
+}
+```
+
 # Stack
 
 Null
