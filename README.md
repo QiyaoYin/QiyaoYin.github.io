@@ -1,2 +1,2 @@
 # YinQY.github.io
-website pages.
+website pages
