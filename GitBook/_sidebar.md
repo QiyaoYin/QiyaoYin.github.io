@@ -25,6 +25,8 @@
     * [Symbl](/doc/ES6/ES6-Symbl)
     * [变量的解构赋值](/doc/ES6/ES6-变量的解构赋值)
     * [字符串的方法](/doc/ES6/ES6-字符串的方法)
+* **ES6教程**
+    * [README](/doc/ES6_TUTORIAL/README)
 * **HTTP**
     * [HTTP基础](/doc/HTTP/HTTP)
     * [HTTP报文](/doc/HTTP/HTTP-报文)
