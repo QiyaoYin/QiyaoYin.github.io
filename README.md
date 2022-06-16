@@ -1,2 +1,2 @@
-# YinQY.github.io
-website pages
+# QiyaoYin.github.io
+Qiyao Yin Personal Page
