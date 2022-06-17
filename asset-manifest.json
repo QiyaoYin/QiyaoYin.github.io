@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4260af51.css",
-    "main.js": "/static/js/main.208e3469.js",
+    "main.css": "/static/css/main.4d926cde.css",
+    "main.js": "/static/js/main.a701d1b9.js",
     "static/media/1.jpg": "/static/media/1.0ce83f583e8d5ea4f252.jpg",
+    "static/media/IMG_8442_polarr.jpeg": "/static/media/IMG_8442_polarr.02338ff675755fb4248b.jpeg",
+    "static/media/IMG_1039_polarr.jpeg": "/static/media/IMG_1039_polarr.e3d3cc5b112556c6db33.jpeg",
+    "static/media/IMG_4977_polarr.jpeg": "/static/media/IMG_4977_polarr.dfb8d1567dab03fa2eaa.jpeg",
     "static/media/DSC01245.jpg": "/static/media/DSC01245.5ee38bf07370057b14fa.jpg",
     "static/media/IMG_2287_polarr.jpg": "/static/media/IMG_2287_polarr.997550ee228d698b8262.jpg",
     "static/media/IMG_2432.jpg": "/static/media/IMG_2432.ab878f3c5c641af30331.jpg",
+    "static/media/IMG_1224_polarr.jpeg": "/static/media/IMG_1224_polarr.fd55fba6cf47afe1960c.jpeg",
     "static/media/DSC01121.jpg": "/static/media/DSC01121.b97e60c2b994b45225e2.jpg",
     "static/media/DSC01156.jpg": "/static/media/DSC01156.0c2d0285e054208c400a.jpg",
     "static/media/IMG_0935_polarr.jpg": "/static/media/IMG_0935_polarr.02d332be23127ea99954.jpg",
@@ -20,17 +24,19 @@
     "static/media/7819F57C-8D50-4115-89D7-BAC7565D4642.jpg": "/static/media/7819F57C-8D50-4115-89D7-BAC7565D4642.d230fd62a1ff84f3340e.jpg",
     "static/media/7B0849FB-290F-4E60-9620-4E839344F191.jpg": "/static/media/7B0849FB-290F-4E60-9620-4E839344F191.05fd44f37153c0c9ec0d.jpg",
     "static/media/main.jpg": "/static/media/main.69a3f9ce26c1e646a794.jpg",
+    "static/media/location.svg": "/static/media/location.e00c772256a9c9a02e98.svg",
+    "static/media/email.svg": "/static/media/email.f7e8bdf74f2149583633.svg",
     "static/media/close.svg": "/static/media/close.e6e719210fab4ad70067.svg",
     "static/media/leftArrow.svg": "/static/media/leftArrow.b9d3dd77b3e76eaa26d8.svg",
     "static/media/rightArrow.svg": "/static/media/rightArrow.ec13d02f3d426ab48b87.svg",
     "static/media/info.svg": "/static/media/info.004fc2d220690c519fcd.svg",
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.d984a972ee18ba5d94c1.svg",
-    "main.4260af51.css.map": "/static/css/main.4260af51.css.map",
-    "main.208e3469.js.map": "/static/js/main.208e3469.js.map"
+    "main.4d926cde.css.map": "/static/css/main.4d926cde.css.map",
+    "main.a701d1b9.js.map": "/static/js/main.a701d1b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4260af51.css",
-    "static/js/main.208e3469.js"
+    "static/css/main.4d926cde.css",
+    "static/js/main.a701d1b9.js"
   ]
 }
