@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6f6322f.css",
-    "main.js": "/static/js/main.9f5d452d.js",
+    "main.css": "/static/css/main.96c5e81b.css",
+    "main.js": "/static/js/main.84a1b91e.js",
     "static/media/DSCF3173.JPG": "/static/media/DSCF3173.ca3c22b60335087fc9ba.JPG",
     "static/media/img-1649343762284.jpg": "/static/media/img-1649343762284.aba0a79149e7c88c605b.jpg",
     "static/media/1655926678277.jpeg": "/static/media/1655926678277.62e85203dfd76d890c52.jpeg",
@@ -48,6 +48,7 @@
     "static/media/1647545078265.jpg": "/static/media/1647545078265.cb0ba6d69f51a3aa825c.jpg",
     "static/media/DSC_jpg": "/static/media/DSC_12521655851174238.2a03182e3bbfdd481c88.jpg",
     "static/media/IMG_1039_polarr.jpeg": "/static/media/IMG_1039_polarr.e3d3cc5b112556c6db33.jpeg",
+    "static/media/main.jpg": "/static/media/main.85f86670c0b9250869e5.jpg",
     "static/media/IMG_4977_polarr.jpeg": "/static/media/IMG_4977_polarr.dfb8d1567dab03fa2eaa.jpeg",
     "static/media/DSC01245.jpg": "/static/media/DSC01245.5ee38bf07370057b14fa.jpg",
     "static/media/IMG_2287_polarr.jpg": "/static/media/IMG_2287_polarr.997550ee228d698b8262.jpg",
@@ -57,6 +58,10 @@
     "static/media/DSC01156.jpg": "/static/media/DSC01156.0c2d0285e054208c400a.jpg",
     "static/media/IMG_0935_polarr.jpg": "/static/media/IMG_0935_polarr.02d332be23127ea99954.jpg",
     "static/media/1652399031806 .png": "/static/media/1652399031806 .002742d9d9fdc03157ce.png",
+    "static/media/CormorantGaramond-SemiBold.ttf": "/static/media/CormorantGaramond-SemiBold.de047eeeb7493b366396.ttf",
+    "static/media/CormorantGaramond-Regular.ttf": "/static/media/CormorantGaramond-Regular.274cef1344d2d06fb1be.ttf",
+    "static/media/CormorantGaramond-Bold.ttf": "/static/media/CormorantGaramond-Bold.5af085244ab6774c0fd9.ttf",
+    "static/media/me.png": "/static/media/me.62ee7030b6308e4e7b29.png",
     "static/media/DSC01247.jpg": "/static/media/DSC01247.954be0f9306ac936c3c4.jpg",
     "static/media/IMG_7688_polarr.jpg": "/static/media/IMG_7688_polarr.8d4a4cfdaac1888185e0.jpg",
     "static/media/IMG_8074_polarr.jpg": "/static/media/IMG_8074_polarr.097b8fb76a44e924d060.jpg",
@@ -66,20 +71,19 @@
     "static/media/IMG_2413 08.55.00.jpg": "/static/media/IMG_2413 08.55.00.f0fe5b9c7063b590aa44.jpg",
     "static/media/7819F57C-8D50-4115-89D7-BAC7565D4642.jpg": "/static/media/7819F57C-8D50-4115-89D7-BAC7565D4642.d230fd62a1ff84f3340e.jpg",
     "static/media/7B0849FB-290F-4E60-9620-4E839344F191.jpg": "/static/media/7B0849FB-290F-4E60-9620-4E839344F191.05fd44f37153c0c9ec0d.jpg",
-    "static/media/main.jpg": "/static/media/main.69a3f9ce26c1e646a794.jpg",
-    "static/media/location.svg": "/static/media/location.e00c772256a9c9a02e98.svg",
-    "static/media/email.svg": "/static/media/email.f7e8bdf74f2149583633.svg",
-    "static/media/close.svg": "/static/media/close.e6e719210fab4ad70067.svg",
-    "static/media/leftArrow.svg": "/static/media/leftArrow.b9d3dd77b3e76eaa26d8.svg",
-    "static/media/rightArrow.svg": "/static/media/rightArrow.ec13d02f3d426ab48b87.svg",
-    "static/media/info.svg": "/static/media/info.004fc2d220690c519fcd.svg",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/close.svg": "/static/media/close.99dcbb030aca9245cc69.svg",
+    "static/media/leftArrow.svg": "/static/media/leftArrow.317b4c4e11a7510644da.svg",
+    "static/media/rightArrow.svg": "/static/media/rightArrow.a0fb42f966bb48313ebd.svg",
+    "static/media/info.svg": "/static/media/info.84022e4271058656bd6b.svg",
     "index.html": "/index.html",
-    "static/media/menu.svg": "/static/media/menu.d984a972ee18ba5d94c1.svg",
-    "main.d6f6322f.css.map": "/static/css/main.d6f6322f.css.map",
-    "main.9f5d452d.js.map": "/static/js/main.9f5d452d.js.map"
+    "static/media/menu.svg": "/static/media/menu.77678cf1b6bc3f25cd4d.svg",
+    "main.96c5e81b.css.map": "/static/css/main.96c5e81b.css.map",
+    "main.84a1b91e.js.map": "/static/js/main.84a1b91e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6f6322f.css",
-    "static/js/main.9f5d452d.js"
+    "static/css/main.96c5e81b.css",
+    "static/js/main.84a1b91e.js"
   ]
 }
