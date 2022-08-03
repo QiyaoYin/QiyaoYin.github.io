@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.9e9cd53d.css",
-    "main.js": "/static/js/main.74b4eed8.js",
-    "static/media/3.png": "/static/media/3.e251024e511e435f57f6.png",
+    "main.js": "/static/js/main.6defd9e2.js",
+    "static/media/282571659483507_.pic_hd.jpg": "/static/media/282571659483507_.pic_hd.d33632932f4989fa1e0d.jpg",
     "static/media/2020-11-17-062351205.jpg": "/static/media/2020-11-17-062351205.cdc6f26af22225f99619.jpg",
     "static/media/img-1649343762284.jpg": "/static/media/img-1649343762284.49bceb80204d005fd00a.jpg",
-    "static/media/2.jpg": "/static/media/2.357e7b56e69d8c52efa8.jpg",
     "static/media/2019-08-23 12.21.38 2.jpg": "/static/media/2019-08-23 12.21.38 2.2324ffa0245920248508.jpg",
     "static/media/2020-09-06 11.30.39 1.jpg": "/static/media/2020-09-06 11.30.39 1.8b02c31670aa4bc01502.jpg",
     "static/media/1655926646362.jpeg": "/static/media/1655926646362.9180f0b95dc9e668f28b.jpeg",
@@ -13,7 +12,6 @@
     "static/media/img-jpg": "/static/media/img-16536257617444d04943626.506f7aef9b160964821f.jpg",
     "static/media/DSCF3173.JPG": "/static/media/DSCF3173.22762226e75f54000972.JPG",
     "static/media/DSC05611.JPG": "/static/media/DSC05611.145cbd3aafcf030d1a9b.JPG",
-    "static/media/1.jpg": "/static/media/1.282e266b1713ae8ddb52.jpg",
     "static/media/1655926678277.jpeg": "/static/media/1655926678277.f36b9ef4e3c3f0a9e07f.jpeg",
     "static/media/2021-01-08-063551027.jpg": "/static/media/2021-01-08-063551027.c81be412b91bc449976a.jpg",
     "static/media/2019-08-22 12.08.14 1.jpg": "/static/media/2019-08-22 12.08.14 1.6fe28237935c5d85b05c.jpg",
@@ -21,6 +19,7 @@
     "static/media/2021-01-18-123743599.jpg": "/static/media/2021-01-18-123743599.aa7c826d90624e727892.jpg",
     "static/media/263621655913983_.pic_hd.jpg": "/static/media/263621655913983_.pic_hd.432a19b80981f2be8eb4.jpg",
     "static/media/img-1655486390539.jpg": "/static/media/img-1655486390539.74dc1db6154ebd908910.jpg",
+    "static/media/282591659483510_.pic_hd.jpg": "/static/media/282591659483510_.pic_hd.e2249d370a6b5fa8ca89.jpg",
     "static/media/IMG_20220501_030944.jpg": "/static/media/IMG_20220501_030944.be118e8d8b14ab6e4fa8.jpg",
     "static/media/1632104050632 (2).jpg": "/static/media/1632104050632 (2).8a4f4a160f5a02da6cf6.jpg",
     "static/media/2021-03-16-032603938.jpg": "/static/media/2021-03-16-032603938.17113b693b2074067d09.jpg",
@@ -45,7 +44,7 @@
     "static/media/IMG_1039_polarr.jpeg": "/static/media/IMG_1039_polarr.e3d3cc5b112556c6db33.jpeg",
     "static/media/1646930625096 (1).JPG": "/static/media/1646930625096 (1).2eeb93194e2f067f6661.JPG",
     "static/media/2019-03-26 06.41.38 1.jpg": "/static/media/2019-03-26 06.41.38 1.97a38a898b461fcc299a.jpg",
-    "static/media/main.jpg": "/static/media/main.fb9e1a265c6e03effc62.jpg",
+    "static/media/main.jpg": "/static/media/main.9d9ca09945ff5a383a4f.jpg",
     "static/media/img-165362576886056.jpg": "/static/media/img-165362576886056.81f566c46ea8bd1afbe0.jpg",
     "static/media/IMG_4977_polarr.jpeg": "/static/media/IMG_4977_polarr.dfb8d1567dab03fa2eaa.jpeg",
     "static/media/img-16493434292654.jpg": "/static/media/img-16493434292654.3a0c85bee251a0009f07.jpg",
@@ -78,7 +77,6 @@
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.f0963fd9968fbd54cc35.ttf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
     "static/media/2020-11-09-102438741.jpg": "/static/media/2020-11-09-102438741.2acb7334070e6a2de9e4.jpg",
-    "static/media/main.png": "/static/media/main.9d9ca09945ff5a383a4f.png",
     "static/media/close.svg": "/static/media/close.99dcbb030aca9245cc69.svg",
     "static/media/leftArrow.svg": "/static/media/leftArrow.317b4c4e11a7510644da.svg",
     "static/media/rightArrow.svg": "/static/media/rightArrow.a0fb42f966bb48313ebd.svg",
@@ -86,10 +84,10 @@
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.77678cf1b6bc3f25cd4d.svg",
     "main.9e9cd53d.css.map": "/static/css/main.9e9cd53d.css.map",
-    "main.74b4eed8.js.map": "/static/js/main.74b4eed8.js.map"
+    "main.6defd9e2.js.map": "/static/js/main.6defd9e2.js.map"
   },
   "entrypoints": [
     "static/css/main.9e9cd53d.css",
-    "static/js/main.74b4eed8.js"
+    "static/js/main.6defd9e2.js"
   ]
 }
