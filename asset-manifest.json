@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e9cd53d.css",
-    "main.js": "/static/js/main.7bc7fcc0.js",
+    "main.css": "/static/css/main.627b1546.css",
+    "main.js": "/static/js/main.f9f2feb4.js",
     "static/media/IMG_2601.JPG": "/static/media/IMG_2601.684a226a772ac9b692d0.JPG",
     "static/media/282571659483507_.pic_hd.jpg": "/static/media/282571659483507_.pic_hd.d33632932f4989fa1e0d.jpg",
     "static/media/2020-11-17-062351205.jpg": "/static/media/2020-11-17-062351205.cdc6f26af22225f99619.jpg",
@@ -50,6 +50,7 @@
     "static/media/2019-03-26 06.41.38 1.jpg": "/static/media/2019-03-26 06.41.38 1.97a38a898b461fcc299a.jpg",
     "static/media/main.jpg": "/static/media/main.9d9ca09945ff5a383a4f.jpg",
     "static/media/img-165362576886056.jpg": "/static/media/img-165362576886056.81f566c46ea8bd1afbe0.jpg",
+    "static/media/me3.jpg": "/static/media/me3.29ad0f7ca09d2e0c8532.jpg",
     "static/media/IMG_4977_polarr.jpeg": "/static/media/IMG_4977_polarr.dfb8d1567dab03fa2eaa.jpeg",
     "static/media/img-16493434292654.jpg": "/static/media/img-16493434292654.3a0c85bee251a0009f07.jpg",
     "static/media/2018-07-11 12.34.01 1.jpg": "/static/media/2018-07-11 12.34.01 1.3b75ffaa3fa62789154c.jpg",
@@ -61,6 +62,7 @@
     "static/media/DSC01156.jpg": "/static/media/DSC01156.0c2d0285e054208c400a.jpg",
     "static/media/1645872995454 (1) (2).jpg": "/static/media/1645872995454 (1) (2).a974a797caaaf22d891c.jpg",
     "static/media/IMG_0935_polarr.jpg": "/static/media/IMG_0935_polarr.02d332be23127ea99954.jpg",
+    "static/media/me1.jpg": "/static/media/me1.bb87b5e1ab12119247de.jpg",
     "static/media/CormorantGaramond-SemiBold.ttf": "/static/media/CormorantGaramond-SemiBold.de047eeeb7493b366396.ttf",
     "static/media/CormorantGaramond-Regular.ttf": "/static/media/CormorantGaramond-Regular.274cef1344d2d06fb1be.ttf",
     "static/media/CormorantGaramond-Bold.ttf": "/static/media/CormorantGaramond-Bold.5af085244ab6774c0fd9.ttf",
@@ -69,6 +71,7 @@
     "static/media/DSC01247.jpg": "/static/media/DSC01247.954be0f9306ac936c3c4.jpg",
     "static/media/IMG_7688_polarr.jpg": "/static/media/IMG_7688_polarr.8d4a4cfdaac1888185e0.jpg",
     "static/media/IMG_8074_polarr.jpg": "/static/media/IMG_8074_polarr.097b8fb76a44e924d060.jpg",
+    "static/media/me2.jpg": "/static/media/me2.173d7802c2fc69a4b087.jpg",
     "static/media/8AFC0C6A-74C2-403D-9E5D-6AD1A25BD7F8.JPG": "/static/media/8AFC0C6A-74C2-403D-9E5D-6AD1A25BD7F8.166ead9f0dcde0e3d762.JPG",
     "static/media/DSC01207.jpg": "/static/media/DSC01207.78c9b96243ead96fd7cc.jpg",
     "static/media/IMG_2413 08.55.00.jpg": "/static/media/IMG_2413 08.55.00.1cbd58c8c698829d2d9c.jpg",
@@ -87,11 +90,11 @@
     "static/media/info.svg": "/static/media/info.84022e4271058656bd6b.svg",
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.77678cf1b6bc3f25cd4d.svg",
-    "main.9e9cd53d.css.map": "/static/css/main.9e9cd53d.css.map",
-    "main.7bc7fcc0.js.map": "/static/js/main.7bc7fcc0.js.map"
+    "main.627b1546.css.map": "/static/css/main.627b1546.css.map",
+    "main.f9f2feb4.js.map": "/static/js/main.f9f2feb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e9cd53d.css",
-    "static/js/main.7bc7fcc0.js"
+    "static/css/main.627b1546.css",
+    "static/js/main.f9f2feb4.js"
   ]
 }
