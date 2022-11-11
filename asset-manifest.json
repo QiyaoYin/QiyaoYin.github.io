@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.627b1546.css",
-    "main.js": "/static/js/main.f9f2feb4.js",
+    "main.css": "/static/css/main.a69bf91c.css",
+    "main.js": "/static/js/main.7460b88e.js",
+    "static/media/mns_chinese.otf": "/static/media/mns_chinese.06a169f86f2c382a4f4d.otf",
     "static/media/IMG_2601.JPG": "/static/media/IMG_2601.684a226a772ac9b692d0.JPG",
     "static/media/282571659483507_.pic_hd.jpg": "/static/media/282571659483507_.pic_hd.d33632932f4989fa1e0d.jpg",
     "static/media/2020-11-17-062351205.jpg": "/static/media/2020-11-17-062351205.cdc6f26af22225f99619.jpg",
@@ -71,7 +72,6 @@
     "static/media/DSC01247.jpg": "/static/media/DSC01247.954be0f9306ac936c3c4.jpg",
     "static/media/IMG_7688_polarr.jpg": "/static/media/IMG_7688_polarr.8d4a4cfdaac1888185e0.jpg",
     "static/media/IMG_8074_polarr.jpg": "/static/media/IMG_8074_polarr.097b8fb76a44e924d060.jpg",
-    "static/media/me2.jpg": "/static/media/me2.173d7802c2fc69a4b087.jpg",
     "static/media/8AFC0C6A-74C2-403D-9E5D-6AD1A25BD7F8.JPG": "/static/media/8AFC0C6A-74C2-403D-9E5D-6AD1A25BD7F8.166ead9f0dcde0e3d762.JPG",
     "static/media/DSC01207.jpg": "/static/media/DSC01207.78c9b96243ead96fd7cc.jpg",
     "static/media/IMG_2413 08.55.00.jpg": "/static/media/IMG_2413 08.55.00.1cbd58c8c698829d2d9c.jpg",
@@ -90,11 +90,11 @@
     "static/media/info.svg": "/static/media/info.84022e4271058656bd6b.svg",
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.77678cf1b6bc3f25cd4d.svg",
-    "main.627b1546.css.map": "/static/css/main.627b1546.css.map",
-    "main.f9f2feb4.js.map": "/static/js/main.f9f2feb4.js.map"
+    "main.a69bf91c.css.map": "/static/css/main.a69bf91c.css.map",
+    "main.7460b88e.js.map": "/static/js/main.7460b88e.js.map"
   },
   "entrypoints": [
-    "static/css/main.627b1546.css",
-    "static/js/main.f9f2feb4.js"
+    "static/css/main.a69bf91c.css",
+    "static/js/main.7460b88e.js"
   ]
 }
